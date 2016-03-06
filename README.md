@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+
+This is Lee Ramirez, Systems Engineer at Cisco.
